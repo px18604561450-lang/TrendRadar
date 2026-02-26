@@ -29,7 +29,6 @@
 
 [GLOBAL_FILTER]
 # 过滤标题党
-震惊
 
 
 
